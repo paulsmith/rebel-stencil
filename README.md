@@ -1,6 +1,6 @@
 # Rebel alliance stencil
 
-![](./rebel_alliance_logo.svg)
+![](./example.jpg)
 
 2mm x 9" stencil. STL file for 3D printing.
 
